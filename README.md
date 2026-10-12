@@ -43,5 +43,5 @@ Results-driven Compliance Specialist with hands-on experience designing risk-mit
 ---
 📬 **Let's Connect!**
 * **LinkedIn:** [https://www.linkedin.com/in/karenhokk](https://www.linkedin.com/in/karenhokk)
-* (https://github.com/karenhokk)
+* **GitHub:** [https://github.com/karenhokk](https://github.com/karenhokk)
 * **Email:** karenhokk@gmail.com
